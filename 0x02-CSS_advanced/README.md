@@ -1,6 +1,8 @@
 # 0x02-CSS_advanced
 
 ## Learning Objectives
+    At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
     - Selectors, properties, and values
     - The difference between block and inline styling
     - How to ensure consistency across all browers (CSS reset)
@@ -13,6 +15,3 @@
     - How to animate elements in CSS
     - How to transform (2d, 3d) elements
     - What vendor prefixes are
-
-## Resources
-- [CSS Reference - A free visual guide to CSS](https://alx-intranet.hbtn.io/rltoken/MeWjjFdnI4juKMuswMHCDw)
